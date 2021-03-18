@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bua_class_14/static/css/main.73b1d9ab.chunk.css",
-    "main.js": "/bua_class_14/static/js/main.2f6c2464.chunk.js",
-    "main.js.map": "/bua_class_14/static/js/main.2f6c2464.chunk.js.map",
-    "runtime-main.js": "/bua_class_14/static/js/runtime-main.79abb647.js",
-    "runtime-main.js.map": "/bua_class_14/static/js/runtime-main.79abb647.js.map",
-    "static/js/2.de52a09a.chunk.js": "/bua_class_14/static/js/2.de52a09a.chunk.js",
-    "static/js/2.de52a09a.chunk.js.map": "/bua_class_14/static/js/2.de52a09a.chunk.js.map",
-    "static/js/3.e4715ef2.chunk.js": "/bua_class_14/static/js/3.e4715ef2.chunk.js",
-    "static/js/3.e4715ef2.chunk.js.map": "/bua_class_14/static/js/3.e4715ef2.chunk.js.map",
-    "index.html": "/bua_class_14/index.html",
-    "static/css/main.73b1d9ab.chunk.css.map": "/bua_class_14/static/css/main.73b1d9ab.chunk.css.map",
-    "static/js/2.de52a09a.chunk.js.LICENSE.txt": "/bua_class_14/static/js/2.de52a09a.chunk.js.LICENSE.txt",
-    "static/media/background.8dca441f.jpg": "/bua_class_14/static/media/background.8dca441f.jpg",
-    "static/media/joey.46d407ad.jpg": "/bua_class_14/static/media/joey.46d407ad.jpg"
+    "main.css": "/bua_14/static/css/main.73b1d9ab.chunk.css",
+    "main.js": "/bua_14/static/js/main.2f6c2464.chunk.js",
+    "main.js.map": "/bua_14/static/js/main.2f6c2464.chunk.js.map",
+    "runtime-main.js": "/bua_14/static/js/runtime-main.8cb40d7b.js",
+    "runtime-main.js.map": "/bua_14/static/js/runtime-main.8cb40d7b.js.map",
+    "static/js/2.de52a09a.chunk.js": "/bua_14/static/js/2.de52a09a.chunk.js",
+    "static/js/2.de52a09a.chunk.js.map": "/bua_14/static/js/2.de52a09a.chunk.js.map",
+    "static/js/3.e4715ef2.chunk.js": "/bua_14/static/js/3.e4715ef2.chunk.js",
+    "static/js/3.e4715ef2.chunk.js.map": "/bua_14/static/js/3.e4715ef2.chunk.js.map",
+    "index.html": "/bua_14/index.html",
+    "static/css/main.73b1d9ab.chunk.css.map": "/bua_14/static/css/main.73b1d9ab.chunk.css.map",
+    "static/js/2.de52a09a.chunk.js.LICENSE.txt": "/bua_14/static/js/2.de52a09a.chunk.js.LICENSE.txt",
+    "static/media/background.8dca441f.jpg": "/bua_14/static/media/background.8dca441f.jpg",
+    "static/media/joey.46d407ad.jpg": "/bua_14/static/media/joey.46d407ad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79abb647.js",
+    "static/js/runtime-main.8cb40d7b.js",
     "static/js/2.de52a09a.chunk.js",
     "static/css/main.73b1d9ab.chunk.css",
     "static/js/main.2f6c2464.chunk.js"
