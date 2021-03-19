@@ -7,8 +7,9 @@
   pointer-events: none;
 }
 
+
 .App-header {
-  background-color: #e9e3ad;
+  background-color: #e5e3bc;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,7 +20,13 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #dd8180;
+}
+
+.ReactPlayer {
+  position: fixed;
+  bottom: 0;
+  padding: 1em;
 }
 
 @keyframes App-logo-spin {

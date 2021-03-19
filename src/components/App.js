@@ -1,7 +1,12 @@
 import bua_logo from '../assets/bua_logo.png'
 import '../css/App.css';
+import ReactPlayer from 'react-player'
+
 
 import Letter from '../components/Letter'
+
+import taylor from '../assets/tswift.mp3'
+
 
 function App() {
   return (
@@ -19,6 +24,14 @@ function App() {
         >
           Fill out this form!
         </a>
+        <div className="footer">
+        <ReactPlayer
+                    url={taylor}
+                    playing={true}
+                    controls={true}
+                    height="50px"
+                />
+          </div>
       </header>
     </div>
   );

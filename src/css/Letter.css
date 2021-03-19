@@ -1,4 +1,14 @@
 .container {
-    text-align: top;
+    /* text-align: top; */
     color: black;
 }
+
+.card {
+    background-color: #ddb1b0;
+} 
+
+.sliderimg{
+    height: 300px;
+    /* padding: 10; */
+    resize: both;
+  }
