@@ -7,8 +7,12 @@
     background-color: #ddb1b0;
 } 
 
+.cardimg {
+    resize: both;
+}
+
 .sliderimg{
-    height: 300px;
+    height: auto;
     /* padding: 10; */
     resize: both;
   }
