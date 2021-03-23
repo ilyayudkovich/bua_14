@@ -8,6 +8,8 @@ import {
 
 import { Container, Row, Col } from 'reactstrap';
 
+import SlideShow  from './SlideShow'
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../css/Letter.css'
 
@@ -44,27 +46,9 @@ class Letter extends Component {
 
     render() {
         return(
-            <CardDeck>
-                <Card body outline bg="success" color="success" className="my-2 container text-center">
-                <CardTitle tag="h2"  className="mb-2">Welcome, class of '14!</CardTitle>
-                {/* <CardImg width='auto' src={joey} alt='Waffles/'></CardImg> */}
-                </Card>
-                {/* <Card body outline color="success" className="my-2 container text-center">
-                    {/* <Iframe
-                        url="https://docs.google.com/document/d/e/2PACX-1vT7FlDrvXG2nB54KVC2sQa9AoVVd60daqbDOe87wgb0DNM5blXFNyOpXQYlvLH1eFHdCGAAKKdrjAZb/pub?embedded=true"
-                        allowFullScreen 
-                        /> */}
-
-                    {/* <AliceCarousel autoPlay responsive={this.response} infinite={true} autoPlayInterval="3000" disableButtonsControls={true} disableDotsControls={false}>
-                        <img src={image1} className="sliderimg"/>
-                        <img src={image2} className="sliderimg"/>
-                        <img src={image3} className="sliderimg"/>
-                        <img src={image5} className="sliderimg"/>
-                        <img src={image6} className="sliderimg"/>
-                        <img src={image4} className="sliderimg"/>
-                    </AliceCarousel> */}
-                {/* </Card> */}
-            </CardDeck>
+            <div className="content">
+                <SlideShow/>
+            </div>
         )
     }
 }

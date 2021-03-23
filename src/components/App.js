@@ -3,9 +3,9 @@ import '../css/App.css';
 import ReactPlayer from 'react-player'
 
 
-import Letter from '../components/Letter'
+import Letter from './Letter'
 
-import taylor from '../assets/tswift.mp3'
+import taylor from '../assets/love_story.mp4'
 
 
 function App() {
@@ -25,12 +25,13 @@ function App() {
           Fill out this form!
         </a>
         <div className="footer">
-        <ReactPlayer
-                    url={taylor}
-                    playing={true}
-                    controls={true}
-                    height="50px"
-                />
+          <ReactPlayer
+                      url={taylor}
+                      playing={true}
+                      controls={true}
+                      height="50px"
+                      width="200px"
+                  />
           </div>
       </header>
     </div>
